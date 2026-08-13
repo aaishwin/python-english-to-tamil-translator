@@ -3,3 +3,5 @@ The Translations file contains all the translations.
 Translations are put in a dictionary. 
 English translations are the key
 The tamil transaltions are the values. 
+
+This was for my course CPS109
